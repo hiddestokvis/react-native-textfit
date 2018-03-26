@@ -3,6 +3,7 @@
   "version": "0.1.1",
   "description": "Auto size text to fit inside a box",
   "main": "index.js",
+  "typings": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
