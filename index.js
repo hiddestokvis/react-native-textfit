@@ -49,7 +49,7 @@ class TextFit extends Component {
           this.props.style, 
           { 
             fontSize: this.state.size, 
-            color: this.state.complete ? 'black': 'transparent',
+            opacity: this.state.complete ? 1 : 0,
             width: this.props.width,
           }
         ]}>
